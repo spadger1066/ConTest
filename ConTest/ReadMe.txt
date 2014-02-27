@@ -1,0 +1,1 @@
+Added outside Visual Studio
